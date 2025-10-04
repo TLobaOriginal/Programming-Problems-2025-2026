@@ -1,4 +1,4 @@
-# 🔥 Programming Problema 2025/2026
+# 🔥 Programming Problem 2025/2026
 
 ## 🎯 Purpose  
 
