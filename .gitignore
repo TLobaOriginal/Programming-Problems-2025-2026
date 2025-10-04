@@ -1,0 +1,12 @@
+# =========================
+# macOS system files
+# =========================
+.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+#Remove secret keys
+id_ed24419
+id_ed24419.pub
+
